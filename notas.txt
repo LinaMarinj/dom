@@ -1,0 +1,10 @@
+Casi todas las etiquetas HTML tienen la posibilidad de cambiar
+su contenido de texto desde JavaScript.
+
+
+textContent permite modificar el contenido de texto de casi todas
+las etiquetas html; solo no aplica para los input.
+
+Para capturar la información de un input, se utiliza la propiedad value 
+
+BJETO en JavaScript -> 
